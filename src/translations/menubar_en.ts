@@ -6,7 +6,7 @@
     <message>
         <location filename="../appmenuwidget.cpp" line="1747"/>
         <source>About helloDesktop</source>
-        <translation type="unfinished"></translation>
+        <translation>About helloDesktop</translation>
     </message>
     <message>
         <location filename="../appmenuwidget.cpp" line="1760"/>
@@ -16,7 +16,7 @@
     <message>
         <location filename="../appmenuwidget.cpp" line="1869"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Unknown</translation>
     </message>
 </context>
 <context>
@@ -41,12 +41,12 @@
     <message>
         <location filename="../appmenuwidget.cpp" line="580"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>System</translation>
     </message>
     <message>
         <location filename="../appmenuwidget.cpp" line="638"/>
         <source>Force Quit Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Force Quit Application</translation>
     </message>
     <message>
         <location filename="../appmenuwidget.cpp" line="660"/>
@@ -66,42 +66,42 @@
     <message>
         <location filename="../appmenuwidget.cpp" line="1285"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>File</translation>
     </message>
     <message>
         <location filename="../appmenuwidget.cpp" line="1286"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Close</translation>
     </message>
     <message>
         <location filename="../appmenuwidget.cpp" line="1299"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Quit</translation>
     </message>
     <message>
         <location filename="../appmenuwidget.cpp" line="1314"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit</translation>
     </message>
     <message>
         <location filename="../appmenuwidget.cpp" line="1315"/>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Undo</translation>
     </message>
     <message>
         <location filename="../appmenuwidget.cpp" line="1344"/>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Cut</translation>
     </message>
     <message>
         <location filename="../appmenuwidget.cpp" line="1349"/>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy</translation>
     </message>
     <message>
         <location filename="../appmenuwidget.cpp" line="1354"/>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Paste</translation>
     </message>
 </context>
 <context>
@@ -151,7 +151,7 @@
         <location filename="../../Shutdown/mainwindow.ui" line="52"/>
         <location filename="../mainwindow.cpp" line="50"/>
         <source>Log Out</source>
-        <translation>LogOut</translation>
+        <translation>Log Out</translation>
     </message>
     <message>
         <location filename="../../Shutdown/mainwindow.ui" line="59"/>
@@ -181,57 +181,57 @@
     <message>
         <location filename="../mainwindow.cpp" line="148"/>
         <source>The SUDO_ASKPASS environment variable is missing. The system is not configured correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>The SUDO_ASKPASS environment variable is missing. The system is not configured correctly.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="155"/>
         <source>The UBUNTU_MENUPROXY environment variable is missing. The system is not configured correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>The UBUNTU_MENUPROXY environment variable is missing. The system is not configured correctly.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="159"/>
         <source>The UBUNTU_MENUPROXY environment variable is not set to &quot;1&quot;. The system is not configured correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>The UBUNTU_MENUPROXY environment variable is not set to &quot;1&quot;. The system is not configured correctly.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="166"/>
         <source>The GTK_MODULES environment variable is missing. The system is not configured correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>The GTK_MODULES environment variable is missing. The system is not configured correctly.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="173"/>
         <source>The GTK_MODULES environment variable does not contain &quot;appmenu-gtk-module&quot;. The system is not configured correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>The GTK_MODULES environment variable does not contain &quot;appmenu-gtk-module&quot;. The system is not configured correctly.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="180"/>
         <source>The QT_QPA_PLATFORMTHEME environment variable is missing. The system is not configured correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>The QT_QPA_PLATFORMTHEME environment variable is missing. The system is not configured correctly.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="187"/>
         <source>The QT_QPA_PLATFORMTHEME environment variable does not contain &quot;panda&quot;. The system is not configured correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>The QT_QPA_PLATFORMTHEME environment variable does not contain &quot;panda&quot;. The system is not configured correctly.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="194"/>
         <source>The XDG_SESSION_TYPE environment variable is missing. The system is not configured correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>The XDG_SESSION_TYPE environment variable is missing. The system is not configured correctly.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="198"/>
         <source>The XDG_SESSION_TYPE environment variable is not set to &quot;x11&quot;. The system is not configured correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>The XDG_SESSION_TYPE environment variable is not set to &quot;x11&quot;. The system is not configured correctly.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="218"/>
         <source>Your disk &apos;%1&apos; is almost full. %2 percent left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Your disk &apos;%1&apos; is almost full. %2 percent left.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="319"/>
         <source>Screen resolution is below the minimum system requirement of 640x480 pixels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Screen resolution is below the minimum system requirement of 640x480 pixels.</translation>
     </message>
 </context>
 <context>
@@ -252,7 +252,7 @@
     <message>
         <location filename="../appmenuwidget.cpp" line="120"/>
         <source>About helloDesktop</source>
-        <translation type="unfinished"></translation>
+        <translation>About helloDesktop</translation>
     </message>
 </context>
 <context>
@@ -260,58 +260,58 @@
     <message>
         <location filename="../../plugin-windows/windowswidget.cpp" line="23"/>
         <source>Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows</translation>
     </message>
     <message>
         <location filename="../../plugin-windows/windowswidget.cpp" line="112"/>
         <source>Hide %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hide %1</translation>
     </message>
     <message>
         <location filename="../../plugin-windows/windowswidget.cpp" line="135"/>
         <source>Hide Others</source>
-        <translation type="unfinished"></translation>
+        <translation>Hide Others</translation>
     </message>
     <message>
         <location filename="../../plugin-windows/windowswidget.cpp" line="150"/>
         <source>Show All</source>
-        <translation type="unfinished"></translation>
+        <translation>Show All</translation>
     </message>
     <message>
         <location filename="../../plugin-windows/windowswidget.cpp" line="169"/>
         <source>Overview</source>
-        <translation type="unfinished"></translation>
+        <translation>Overview</translation>
     </message>
     <message>
         <location filename="../../plugin-windows/windowswidget.cpp" line="239"/>
         <location filename="../../plugin-windows/windowswidget.cpp" line="288"/>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop</translation>
     </message>
     <message>
         <location filename="../../plugin-windows/windowswidget.cpp" line="322"/>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom In</translation>
     </message>
     <message>
         <location filename="../../plugin-windows/windowswidget.cpp" line="337"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoom Out</translation>
     </message>
     <message>
         <location filename="../../plugin-windows/windowswidget.cpp" line="371"/>
         <source>Increase Screen Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Increase Screen Brightness</translation>
     </message>
     <message>
         <location filename="../../plugin-windows/windowswidget.cpp" line="390"/>
         <source>Decrease Screen Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Decrease Screen Brightness</translation>
     </message>
     <message>
         <location filename="../../plugin-windows/windowswidget.cpp" line="412"/>
         <source>Full Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Full Screen</translation>
     </message>
 </context>
 </TS>
