@@ -4,17 +4,17 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <location filename="../appmenuwidget.cpp" line="1724"/>
+        <location filename="../appmenuwidget.cpp" line="1747"/>
         <source>About helloDesktop</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="1737"/>
+        <location filename="../appmenuwidget.cpp" line="1760"/>
         <source>About This Computer</source>
         <translation type="unfinished">A Számítógép Névjegye</translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="1846"/>
+        <location filename="../appmenuwidget.cpp" line="1869"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
@@ -22,7 +22,7 @@
 <context>
     <name>AppMenuWidget</name>
     <message>
-        <location filename="../appmenuwidget.cpp" line="604"/>
+        <location filename="../appmenuwidget.cpp" line="606"/>
         <source>Search</source>
         <translation>Keresés</translation>
     </message>
@@ -39,67 +39,67 @@
         <translation type="vanished">Minden felfedése</translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="578"/>
+        <location filename="../appmenuwidget.cpp" line="580"/>
         <source>System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="636"/>
+        <location filename="../appmenuwidget.cpp" line="638"/>
         <source>Force Quit Application</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="658"/>
+        <location filename="../appmenuwidget.cpp" line="660"/>
         <source>Restart</source>
         <translation>Újraindítás</translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="660"/>
+        <location filename="../appmenuwidget.cpp" line="662"/>
         <source>Log Out</source>
         <translation>Kijelentkezés</translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="662"/>
+        <location filename="../appmenuwidget.cpp" line="664"/>
         <source>Shut Down</source>
         <translation>Leállítás</translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="1263"/>
+        <location filename="../appmenuwidget.cpp" line="1285"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="1264"/>
+        <location filename="../appmenuwidget.cpp" line="1286"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="1277"/>
+        <location filename="../appmenuwidget.cpp" line="1299"/>
         <source>Quit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="1292"/>
+        <location filename="../appmenuwidget.cpp" line="1314"/>
         <source>Edit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="1293"/>
+        <location filename="../appmenuwidget.cpp" line="1315"/>
         <source>Undo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="1322"/>
+        <location filename="../appmenuwidget.cpp" line="1344"/>
         <source>Cut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="1327"/>
+        <location filename="../appmenuwidget.cpp" line="1349"/>
         <source>Copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="1332"/>
+        <location filename="../appmenuwidget.cpp" line="1354"/>
         <source>Paste</source>
         <translation type="unfinished"></translation>
     </message>
@@ -139,44 +139,37 @@
     <name>MainWindow</name>
     <message>
         <location filename="../../Shutdown/mainwindow.ui" line="75"/>
-        <location filename="../../build/Shutdown/Shutdown_autogen/include/ui_mainwindow.h" line="111"/>
         <source>Shut Down</source>
         <translation>Leállítás</translation>
     </message>
     <message>
         <location filename="../../Shutdown/mainwindow.ui" line="45"/>
-        <location filename="../../build/Shutdown/Shutdown_autogen/include/ui_mainwindow.h" line="105"/>
         <source>Restart</source>
         <translation>Újraindítás</translation>
     </message>
     <message>
         <location filename="../../Shutdown/mainwindow.ui" line="52"/>
-        <location filename="../../build/Shutdown/Shutdown_autogen/include/ui_mainwindow.h" line="106"/>
         <location filename="../mainwindow.cpp" line="50"/>
         <source>Log Out</source>
         <translation>Kijelentkezés</translation>
     </message>
     <message>
         <location filename="../../Shutdown/mainwindow.ui" line="59"/>
-        <location filename="../../build/Shutdown/Shutdown_autogen/include/ui_mainwindow.h" line="107"/>
         <source>Cancel</source>
         <translation>Mégsem</translation>
     </message>
     <message>
         <location filename="../../Shutdown/mainwindow.ui" line="62"/>
-        <location filename="../../build/Shutdown/Shutdown_autogen/include/ui_mainwindow.h" line="109"/>
         <source>Esc</source>
         <translation>Esc</translation>
     </message>
     <message>
         <location filename="../../Shutdown/mainwindow.ui" line="94"/>
-        <location filename="../../build/Shutdown/Shutdown_autogen/include/ui_mainwindow.h" line="112"/>
         <source>Are you sure you want to shut down your computer now?</source>
         <translation>Biztos hogy le szeretnéd állítani a számítógépet?</translation>
     </message>
     <message>
         <location filename="../../Shutdown/mainwindow.ui" line="113"/>
-        <location filename="../../build/Shutdown/Shutdown_autogen/include/ui_mainwindow.h" line="104"/>
         <source>Log out</source>
         <translation>Kijelentkezés</translation>
     </message>
@@ -251,13 +244,13 @@
 <context>
     <name>SystemMenu</name>
     <message>
-        <location filename="../appmenuwidget.cpp" line="87"/>
-        <location filename="../appmenuwidget.cpp" line="119"/>
+        <location filename="../appmenuwidget.cpp" line="88"/>
+        <location filename="../appmenuwidget.cpp" line="120"/>
         <source>About This Computer</source>
         <translation type="unfinished">A Számítógép Névjegye</translation>
     </message>
     <message>
-        <location filename="../appmenuwidget.cpp" line="119"/>
+        <location filename="../appmenuwidget.cpp" line="120"/>
         <source>About helloDesktop</source>
         <translation type="unfinished"></translation>
     </message>

@@ -1718,6 +1718,8 @@ AboutDialog::AboutDialog(QWidget *parent) : QDialog(parent)
     });
     _hardwareProbeButton->setEnabled(QFile::exists("/Applications/Utilities/Hardware Probe.app"));
 
+    QIcon icon = QIcon::fromTheme("computer");
+
 #if defined(Q_OS_FREEBSD)
     QProcess p;
     p.setProgram("kenv");
@@ -1729,7 +1731,6 @@ AboutDialog::AboutDialog(QWidget *parent) : QDialog(parent)
     chassisType = chassisType.trimmed();
     qDebug() << "Chassis type:" << chassisType;
 
-    QIcon icon = QIcon::fromTheme("computer");
     // https://www.dmtf.org/sites/default/files/standards/documents/DSP0134_3.2.0.pdf#%5B%7B%22num%22%3A105%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C70%2C555%2C0%5D
 
     // If chassis type is "Notebook" or "Laptop" or "Portable" or "Hand Held" or "Sub Notebook" or
@@ -1892,16 +1893,7 @@ AboutDialog::AboutDialog(QWidget *parent) : QDialog(parent)
                 + "</small></center>");
 
 #else
-        msgBox->setText(
-                QString("<center><h3>helloDesktop</h3>"
-                        "<p>Running on an unsupported operating system<br>"
-                        "with reduced functionality</p>"
-                        "<small><p>The full desktop experience<br>"
-                        "can best be experienced on helloSystem<br>"
-                        "which helloDesktop is designed for</p>"
-                        ""
-                        "<a href='https://hellosystem.github.io'>https://hellosystem.github.io/</a>"
-                        "</small></center>"));
+
 #endif
     }
 

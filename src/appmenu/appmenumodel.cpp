@@ -565,7 +565,7 @@ void AppMenuModel::filterWindow(KWindowInfo &info)
         if (KWindowSystem::isPlatformX11()) {
             windowCenter /= qApp->devicePixelRatio();
         }
-        const bool contained = m_screenGeometry.isNull() || m_screenGeometry.contains(windowCenter);
+        const bool contained = true;//m_screenGeometry.isNull() || m_screenGeometry.contains(windowCenter);
 
         const bool isActive = m_filterByActive ? info.win() == KWindowSystem::activeWindow() : true;
 
